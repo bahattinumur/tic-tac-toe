@@ -1,4 +1,4 @@
-<h1>POKEDEX</h1>
+<h1>TIC TAC TOE</h1>
 
 This is a simple classic Tic Tac Toe game played between ‘X’ and ‘O’ players on a board consisting of 9 squares, created using JavaScript.
 
